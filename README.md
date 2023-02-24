@@ -44,3 +44,21 @@ npm run build
 ```sh
 npm run lint
 ```
+# PiniaApp Demos
+
+## Dev
+Pasos 
+
+1. Clonar el proyecto.
+2. Ejecutar 
+```
+npm i 
+```
+
+3. Levantar el backend server
+
+```npm run backend-server```
+
+4. ejecutar la aplicacion de Vue.js
+
+```npm run dev```
